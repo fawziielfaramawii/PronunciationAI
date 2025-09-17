@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 altair==5.5.0
 attrs==25.3.0
 av==15.1.0
@@ -62,10 +61,8 @@ typing_extensions==4.12.2
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
-=======
-fastapi
-uvicorn
-faster-whisper
-gTTS
-python-multipart
->>>>>>> f5ab5f1a92cb6c9469be58b03148a4d1abe3cb43
+
+# Essentials for FastAPI app
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
